@@ -2,7 +2,8 @@
 
 An end-to-end Python automation tool for **DaVinci Resolve** that automatically transcribes video using **OpenAI Whisper**, formats captions into short, readable multi-line chunks, places title template clips on a dedicated video track, updates Fusion `TextPlus` nodes, and renders the final video.
 
-This automation works on Davinci Resolve Studio only.
+This automation works on Davinci Resolve Studio only. For FREE version of Davinci Resolve go to https://github.com/jonislab/video-caption-no-gpu
+
 
 ---
 
